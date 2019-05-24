@@ -1,6 +1,6 @@
 <img src="https://pythonchannel.com/media/github/Android-AdMob-Rewarded-Video-Ads-Sample-Image.jpg" width="100%">
 
-+ [YouTube](https://youtu.be/chBE9DQwdng)  
++ [YouTube](https://youtu.be/G41uH00ckys)  
 + TEXT  準備中
 
 ## 機能
